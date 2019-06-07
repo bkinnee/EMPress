@@ -12,8 +12,8 @@ In doing so, the EMPress series takes a modern approach to communications and in
 !
 ---
 Components:
-1. High voltage generator (ex. BLANK)
-2. Electromagnetic coil with 5 turns (using BLANK GAUGE wire)
-3. A spark gap (more on this in the shematics)
+1. High voltage generator (ex. SUNKEE BLANK BLANK BLANK)
+2. Electromagnetic coil with 5 turns (using 32 BLANK GAUGE wire)
+3. A spark gap (more on this in the schematics)
 4. An insulated project box/container (this can be bought, or made with a tool such as a laser cutter)
 ---
