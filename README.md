@@ -17,3 +17,7 @@ Components:
 3. A spark gap (more on this in the schematics)
 4. An insulated project box/container (this can be bought, or made with a tool such as a laser cutter)
 ---
+References:
+
+Additionally, I consulted this Instructables guide (in particular, the videos): https://www.instructables.com/id/Destroy-Any-Device-With-EMP-Jammer/ (created by Kedar Nimbalkar)
+
