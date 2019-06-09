@@ -12,7 +12,7 @@ In doing so, the EMPress series takes a modern approach to communications and in
 !
 ***WARNING: This device is an electromagnetic pulse generator--it creates a VERY high voltage and curent (about 4000 volts). 
 DO NOT USE THIS DEVICE NEAR ANY MEDICAL DEVICES (ex. pacemakers)--you can seriously injure or even kill somebody with this much power. Use all necessary precautions when working with high voltage; keep your circuit unplugged from your power source unless you are SAFELY testing it!
-DO NOT USE THIS DEVICE NEAR ANY ELECTRONIC DEVICES--it is designed to disable them by sending a disruptive electromagnetic current. You are likely to damage your device or the data within it. 
+DO NOT USE THIS DEVICE NEAR ANY ELECTRONIC DEVICES--it is designed to disable them by sending a disruptive electromagnetic current. You are likely to damage your device or the data within it. Because of this, it may be necessary to work on this project outdoors and away from any other electronics (as is evident within the photos). 
 !
 !
 ---
