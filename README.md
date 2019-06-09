@@ -6,7 +6,7 @@ A disruptive device; a reflection on power, control, and information dynamics; a
 In doing so, the EMPress series takes a modern approach to communications and information theories--it upends the zeitgeist of connectivity, and instead displaces, disrupts, and disconnects power sources from their constituents (i.e. master/slave, primary/secondary, etc.). 
 ---
 * This is a prototype for a future project that will incorporate EMPress into a wearable glove.
-* This repository contains files and photos for two prototypes: one created with clear plexiglass, and the other with mirrored plexiglass. A short video of the latter is available here--although the effect on the static is difficult to see.
+* This repository contains files and photos for two prototypes: one created with clear plexiglass, and the other with mirrored plexiglass. A short video of the latter is available here--although the effect on the TV static is difficult to see.
 ---
 !
 !
