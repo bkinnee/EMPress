@@ -10,7 +10,8 @@ In doing so, the EMPress series takes a modern approach to communications and in
 ---
 !
 !
-***WARNING: This device is an electromagnetic pulse generator--it creates a VERY high voltage and curernt (about 4000 volts). 
+***WARNING: USE AT YOUR OWN RISK. DO NOT USE THIS DEVICE NEAR OTHERS.
+This device is an electromagnetic pulse generator--it creates a VERY high voltage and curernt (about 4000 volts). 
 DO NOT USE THIS DEVICE NEAR ANY MEDICAL DEVICES (ex. pacemakers)--you can seriously injure or even kill somebody with this much power. 
 This device was creative for artistic--NOT malicious--purposes.
 Use all necessary precautions when working with high voltage; keep your circuit unplugged from your power source unless you are SAFELY testing it!
