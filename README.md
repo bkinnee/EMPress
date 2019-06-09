@@ -19,5 +19,8 @@ Components:
 ---
 References:
 
+To easily create a CAD file for laser-cutting a box, I used https://en.makercase.com/. This site allows you to input the dimensions of your desired box--I used the "fingered" limbs in order to get the jigsaw-like shape with both the clear and metallic box prototypes. 
+
 Additionally, I consulted this Instructables guide (in particular, the videos): https://www.instructables.com/id/Destroy-Any-Device-With-EMP-Jammer/ (created by Kedar Nimbalkar)
+
 
